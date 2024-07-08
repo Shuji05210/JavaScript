@@ -1,0 +1,35 @@
+
+.question{
+    width: 640px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+h1{ text-align: center;}
+
+#Qtext{
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+.question p{
+    font-size: 20px;
+    margin: 0 auto 20px auto;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+
+.question p:hover{
+    background-color: blue;
+    color: #ffffff;
+}
+
+.ansfield{
+    width: 640px;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    background-color: aqua;
+    text-align: center;
+}

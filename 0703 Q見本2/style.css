@@ -1,0 +1,28 @@
+
+#quiz{
+    width: 640px;
+    margin: 0 auto 100px auto;
+    text-align: center;
+}
+
+h1{ text-align: center;}
+
+#quiz div{
+    font-size: 20px;
+    margin-top: 20px;
+     border: 1px solid black;
+     border-radius: 16px;
+}
+
+#quiz div:hover{
+    background-color: blue;
+    color: #ffffff;
+}
+
+#aa {
+    width: 640px;
+    height: 50px;
+    margin: 0 auto 100px auto;
+    background-color: aqua;
+    text-align: center;
+}

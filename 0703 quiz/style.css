@@ -1,0 +1,35 @@
+
+.question{
+    width: 640px;
+    height: 600px;
+    margin: 0 auto 200px auto;
+    text-align: center;
+}
+
+h1{ text-align: center;}
+
+#q1 {
+    background-color: #f5ecf4;
+    font-size: 20px;
+}
+
+.question div:nth-child(1){
+    border: none;
+    border-radius: 0;
+}
+
+.question div{
+    font-size: 20px;
+    margin: 0 auto 20px auto;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.question div:nth-child(1):hover{
+    color: #000000;
+}
+
+.question div:hover{
+    background-color: blue;
+    color: #ffffff;
+}

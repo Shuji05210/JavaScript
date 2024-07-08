@@ -1,0 +1,21 @@
+
+.question{
+    width: 640px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+
+li {
+    list-style: none;
+    width: 640px;
+    height: 40px;
+    margin: 10px auto;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+}
+ 
+li:hover{
+    background-color: aqua;
+}

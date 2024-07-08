@@ -1,0 +1,18 @@
+#button {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    
+}
+
+#button2 {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    margin-top: 20px;
+    
+}
+
+#button2:hover{
+    background-color: orange;
+}
