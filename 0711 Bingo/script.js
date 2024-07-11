@@ -14,6 +14,8 @@ const btnclick1 = () => {
         //13番目 (カードの真ん中をFreeにする)
         if(i === 12){
             card[i].textContent = 'Free'
+            card[i].style.backgroundColor = '#ffffff'
+            card[i].style.border = '1px solid black'
         } 
     }
 }
